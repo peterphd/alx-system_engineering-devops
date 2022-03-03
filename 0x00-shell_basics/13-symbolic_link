@@ -2,3 +2,5 @@
 ln -s /bin/ls _/s_
 #!/bin/bash
 nln -s /bin/ls _ls_
+#!/bin/bash
+ln -s /bin/ls __ls__
